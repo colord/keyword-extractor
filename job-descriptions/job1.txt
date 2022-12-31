@@ -1,0 +1,15 @@
+Must be able to write coherent, organized code and be comfortable immersing yourself in an existing website to edit, debug or otherwise adjust
+Developing custom WordPress themes using frameworks built in a local server environment such as MAMP
+Managing SQL databases and potentially some API’s
+Setting up a Content Management System (CMS) for custom post types using Advanced Custom Fields (ACF)
+Install, migrate, and launch new websites, a MUST
+Skills
+
+Solid experience in developing WordPress frameworks/ themes, SQL databases and API’s
+Very comfortable with HTML, CSS and SASS
+Experience with JS, PHP, SQL and WordPress built in MAMP
+Able to dig into a website using web developer tools
+Using, customizing and building custom WordPress themes and frameworks
+Comfortable working with Adobe Photoshop and XD
+Strong interpersonal skills and fluent in English (speaking and writing)
+Excellent organizational, written communication and presentation skills
