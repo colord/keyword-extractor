@@ -1,0 +1,35 @@
+Help build high scalable distributed performance management solutions to dynamically tune customer clusters and collect metric data.
+
+Integrate with different distributed streaming and execution engines (i.e. Kafka, Spark, Tez, Impala, MapReduce, etc.) to collect telemetry data.
+
+Use the collected metrics and telemetry data to provide automated insights and recommendations to customers/developers.
+
+Work closely with a focused development team to quickly iterate on new solutions.
+
+Skills, Abilities, and Knowledge
+
+Bachelor’s degree in Computer Science or related Engineering discipline.
+
+Comfortable working in a fast-paced and highly collaborative work environment
+
+Excellent written and verbal communication skills and the ability to generate and communicate meaningful development metrics
+
+Excellent analytical, problem-solving, troubleshooting and decision-making skills
+
+Understanding of Hadoop and Kubernetes components and ecosystems
+
+Hands-on experience with Cloud Managed Hadoop and Kubernetes services including AWS EMR/EKS and Google Dataproc/GKE
+
+Solid understanding of system design, including the operational design trade-offs
+
+Experience developing in Java required.
+
+Experience with Linux commands and scripting languages a plus.
+
+Demonstrated ability to come up to speed on new software stacks required.
+
+Experience optimizing system performance, ideally in Linux.
+
+Experience developing large-scale, data-heavy distributed systems a plus.
+
+Knowledge of Spark and Kafka a plus.

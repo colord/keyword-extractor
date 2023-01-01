@@ -1,0 +1,23 @@
+Understanding analysing and implementing Business needs feature modification requests conversion into software components
+Working with Python libraries like Pandas NumPy etc
+Execute full software development life cycle (SDLC)
+Develop flowcharts, layouts and documentation to identify requirements and solutions
+Write well-designed, testable code
+Produce specifications and determine operational feasibility
+Integrate software components into a fully functional software system
+Develop software verification plans and quality assurance procedures
+Document and maintain software functionality
+Troubleshoot, debug and upgrade existing systems
+Deploy programs and evaluate user feedback
+Comply with project plans and industry standards
+Key Requirements
+
+Degree in Computer Science, Engineering or a related field
+You have some prior experience as a Python Developer
+Good knowledge Django, Flask or similar Python frameworks
+Familiarity with front-end technologies, such as JavaScript, HTML5, and CSS3
+Knowledge of ORM (Object Relational Mapper)
+Familiarity with Scrum and agile project methodologies.
+Familiarity with various testing tools.
+Able to deliver results on time, and take responsibility for a project's successful outcome.
+Experience collaborating with senior developers, project managers, and designers in a fast-paced environment with little supervision.
